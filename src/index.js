@@ -1,5 +1,5 @@
 // Website you intended to retrieve for users.
-const upstream = 'www.google.com'
+const upstream = 'www.yahoo.com'
 
 // Custom pathname for the upstream website.
 const upstream_path = '/'
